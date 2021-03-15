@@ -1,0 +1,113 @@
+body{
+    background-color: gray;
+}
+.container .first #title {
+font-size: 20px;
+color: orange;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+.container .first #image img {
+    width: 577px;
+    height: 324px;
+    border-radius: 5px;
+    border-color: orangered;
+}
+
+.container .informations {
+    display: flex;
+    color: orange;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    margin-top: 40px;
+    align-items: center;
+    
+}
+
+.container .informations #information1 {
+    margin-left: 13px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container .informations #information2 {
+    margin-left: 13px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container .informations #information3 {
+    margin-left: 13px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container .informations #information4 {
+    margin-left: 13px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container .informations #information5 {
+    margin-left: 65px;
+    display: flex;
+}
+
+.container .informations #information5 img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;   
+}
+
+.container .informations #information5 span {
+    margin-top: 20px;
+    font-size: 18px;
+    margin-left: 8px;
+}
+
+.container .informations #information1  img {
+    width: 20px;
+    height: 20px;
+}
+
+.container .informations #information2 img {
+    width: 37px;
+    height: 37px;
+    
+}
+.container .informations #information3 img {
+    width: 45px;
+    height: 35px;  
+}
+
+.container .informations #information4 img {
+     width: 30px;
+    height: 30px;    
+}
+
+.container .second #ingredientes h2 {
+    font-size: 35px;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    color: orange;
+}
+
+.container .second #ingredientes li {
+    font-size: 25px;
+}
+
+
+.container .second #preparo li  {
+    font-size: 25px;  
+    
+}
+
+.container .second #preparo h2 {
+    font-size: 35px;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    color: orange;
+}
